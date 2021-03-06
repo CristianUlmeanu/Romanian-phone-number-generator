@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608817354 source:c:\users\crisi\onedrive\desktop\geneartor_numere_telefon\main.cpp
+	<sstream>
+	<iostream>
+	<cstring>
+	<string>
+	<random>
+
